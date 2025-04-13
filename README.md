@@ -25,3 +25,5 @@ Se utiliza el dataset **`seattle_weather`** proveniente de [Vega Datasets](https
 
 Se entrena una red LSTM para predecir una variable específica (por ejemplo, la temperatura máxima) a partir de una secuencia de datos climáticos como precipitación, viento, etc.
 
+Por Luis Manuel Zamudio Domínguez.
+
